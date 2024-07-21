@@ -1,0 +1,288 @@
+
+
+
+.home-section {
+    display: flex;
+} 
+ .home_one {
+    width: 37%; 
+    margin-right: 160px; 
+   
+ }
+
+.h_image {
+    margin-left: 20px; 
+    width:100px;
+    height:200px;
+     display:block;
+   
+}
+.img_one{
+    width: 500px;
+} 
+.ho_first{
+    margin-top: 130px;
+}
+     .hcontent_one {
+ 
+        font-family: "Old Standard TT", serif;
+    
+        font-weight: 100;
+        color: #003777; 
+         padding-bottom: 0px;
+        margin-bottom: 0px; 
+       
+ 
+
+    }
+    .hcontent_two{
+         padding-top: 0px;
+        margin-top: 0px; 
+        font-size: 90px;
+        font-family: serif;
+        /* line-height: 2; */
+        color: #003777;
+    }
+    .hbutton_one{
+        display: inline;
+        height: 50px;
+        width: 190px;
+        border: 0;
+        border-radius: 30px;
+        background-color: aqua;
+        color: white;
+    }
+    .hbutton_two{
+        display: inline;
+        height: 50px;
+        width: 190px;
+        margin-left: 20px;
+        margin-top: 80px;
+        border: 0;
+        border-radius: 30px;
+        background-color: #003777;
+        color: white;
+    }
+    .hhead_one{
+        color: #003777;
+    }
+    /* .hhead_main{
+        margin-top: 450px;
+    } */
+    .hbutton_three{
+        height: 50px;
+        width: 190px;
+        margin-top: 30px;
+        margin-left: 50px;
+        border: 0;
+        border-radius: 30px;
+        background-color: aqua;
+        color: white;
+    }
+    .box_one{
+        height: 300px;
+        width: 300px;
+        border-radius: 30px;
+        background-color: white;
+
+    }
+    .box_one:hover{
+        background-color: rgb(247, 232, 232);
+    }
+    .boxhead_one{
+        text-align: center;
+        color: #003777;
+        
+    }
+    .boxhead_one:hover{
+        color: aqua;
+    }
+    .box_two{
+        height: 300px;
+        width: 300px;
+        border-radius: 30px;
+        background-color: white;
+
+
+    }
+    .box_two:hover{
+        background-color: rgb(247, 232, 232);
+    }
+    .boxhead_two{
+        text-align: center;
+        color: #003777;
+       
+    }
+    .boxhead_two:hover{
+        color: aqua;
+    }
+    .box_three{
+        height: 300px;
+        width: 300px;
+        border-radius: 30px;
+        background-color: white;
+    }
+    .box_three:hover{
+        background-color: rgb(247, 232, 232);
+    }
+    .boxhead_three{
+        text-align: center;
+        color: #003777;
+    }
+    .boxhead_three:hover{
+        color: aqua;
+    }
+    .hhead_main{
+        margin-top: 150px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+       column-gap:250px;
+    }
+    .ha_content{
+        color: #003777;
+    }
+    .ha_button{
+        background-color: aqua;
+        color: white;
+        border-radius: 30px;
+        height: 50px;
+        width: 190px;
+        border: 0;
+    }
+    .ha_main{
+        margin-top: 100px;
+        display: grid;
+    grid-template-columns: 1fr 1fr ;
+        
+    }
+    .ha_one{
+       
+        height: 300px;
+        width: 500px;
+        margin-left: 200px;
+    }
+    .hs_button{
+        background-color: aqua;
+        color: white;
+        border-radius: 30px;
+        height: 50px;
+        width: 190px;
+        border: 0;
+    }
+    .ho_head{
+        color: #003777;
+    }
+    .ho_one{
+        height: 400px;
+        width: 300px;
+        border-radius: 30px;
+    }
+    .ho_one:hover{
+        background-color: rgb(247, 232, 232);
+    }
+    .ho_two{
+        height: 400px;
+        width: 300px;
+        border-radius: 30px;
+    }
+    .ho_two:hover{
+        background-color:  rgb(247, 232, 232);
+    }
+    .ho_three{
+        height: 400px;
+        width: 300px;
+        border-radius: 30px;
+    }
+    .ho_three:hover{
+     background-color:  rgb(247, 232, 232);
+    }
+    .ho_four{
+        height: 400px;
+        width: 300px;
+        border-radius: 30px;
+    }
+    .ho_four:hover{
+        background-color:  rgb(247, 232, 232);
+    }
+    .ho_five{
+        height: 400px;
+        width: 300px;
+        border-radius: 30px;
+    }
+    .ho_five:hover{
+        background-color:  rgb(247, 232, 232); 
+    }
+    .ho_six{
+        height: 400px;
+        width: 300px;
+        border-radius: 30px;
+    }
+    .ho_six:hover{
+        background-color:  rgb(247, 232, 232); 
+    }
+.ho_main{
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 270px;
+}
+.ho_contentone{
+    text-align: center;
+    color: #003777;
+}
+.ho_contentone:hover{
+    color: aqua;
+}
+.ho_contenttwo{
+    text-align: center;
+    color: #003777;
+}
+.ho_contenttwo:hover{
+    color: aqua;
+}
+.ho_contentthree{
+    text-align: center;
+    color: #003777;
+}
+.ho_contentthree:hover{
+    color: aqua;
+}
+.ho_contentfour{
+    text-align: center;
+    color: #003777;
+}
+.ho_contentfour:hover{
+    color: aqua;
+}
+.ho_contentfive{
+    text-align: center;
+    color: #003777;
+}
+.ho_contentfive:hover{
+    color: aqua;
+}
+.ho_contentsix{
+    text-align: center;
+    color: #003777;
+}
+.ho_contentsix:hover{
+    color: aqua;
+}
+
+.image_one{
+    width: 880px;
+}
+.home_designer{
+    color: #003777;
+}
+.home_designer2{
+    color: #003777;
+}
+/* .home_last{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+} */
+ .home__main{
+    margin-left: 80px;
+    margin-right: 80px;
+ }

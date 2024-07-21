@@ -1,0 +1,29 @@
+.card_box{
+    height: 450px;
+    width: 400px;
+ border-radius: 5px;
+ border-radius: 20px;
+ background-color:whitesmoke;
+   
+}
+.image{
+    height: 150px;
+    width: 150px;
+    padding: 20px;
+ 
+}
+.card_button{
+    height: 40px;
+    width: 100px;
+    background-color:#15C3FC;
+    border-radius: 30px;
+   margin-left: 150px;
+   
+ 
+}
+.card_button:hover{
+    background-color: #18C022;
+}
+.app_flex{
+    font-size: 12px;
+}

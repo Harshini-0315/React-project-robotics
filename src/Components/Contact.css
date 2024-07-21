@@ -1,0 +1,38 @@
+.contact_main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color:white;
+    column-gap: 30px;
+    text-align: center;
+    
+}
+/* .contact_main:hover{
+    background-color: antiquewhite;
+    
+} */
+.contact_map{
+    margin-top: 30px;
+    height: 500px;
+    width: 1600px;
+}
+.address_main{
+    background-color: white;
+}
+.address_main:hover{
+   background-color: antiquewhite;
+   border-radius: 30px;
+}
+.mail_main{
+    background-color: white;
+}
+.mail_main:hover{
+    background-color: antiquewhite;
+    border-radius: 30px;
+}
+.phone_main{
+    background-color: white;
+}
+.phone_main:hover{
+    background-color: antiquewhite;
+    border-radius: 30px;
+}

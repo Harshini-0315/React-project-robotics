@@ -1,0 +1,84 @@
+.career_content{
+    display: grid;
+  grid-template-columns: 1fr;
+}
+form {
+  width: 95%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+form label {
+  font-size: 1rem;
+  font-weight: bold;
+  display: block;
+  text-align: left;
+  margin: 1rem 0 0.2rem;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 0.65rem 0.5rem;
+  font-size: 1rem;
+  color: white;
+  border: 2px solid #4a5568;
+  background-color: #2d3748;
+  border-radius: 10px;
+  outline: none;
+}
+
+input:focus,
+select:focus {
+  border-color: #4299e1;
+}
+
+input::placeholder,
+select::placeholder {
+  color: #a0aec0;
+}
+
+input[type="checkbox"] {
+  width: fit-content;
+  margin-right: 0.5rem;
+  transform: scale(1.25);
+}
+
+button {
+  display: block;
+  margin: 1rem 0;
+  padding: 0.35rem 0.5rem;
+  background-color: #4299e1;
+  color: #1a202c;
+  border: none;
+  border-radius: 3px;
+  width: 100%;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+input.input-error,
+select.input-error {
+  border-color: #fc8181;
+}
+
+button:disabled {
+  opacity: 0.35;
+}
+.carrer_head{
+  color:  #003777;
+  margin-left: 620px;
+}
+.carrer_heading{
+  color:  #003777;
+  margin-left: 820px;
+}
+/* .career_main{
+  margin-left: 80px;
+  margin-right: 80px;
+} */
+.Screenshot_img{
+  height: 300px;
+  width: 1690px;
+}

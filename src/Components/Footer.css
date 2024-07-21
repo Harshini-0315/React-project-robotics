@@ -1,0 +1,65 @@
+.footer_main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    /* position: fixed; */
+    height: 200px;
+    width: 100%;
+    background-color: #003777;;
+    color: white;
+    border-radius: 20px;
+}
+.footer_button{
+    margin-top: 90px;
+    height: 30px;
+    width: 140px;
+    background-color: aqua;
+    border: 0;
+    border-radius: 30px;
+}
+.footer_home{
+    color: white;
+}
+.footer_home:hover{
+    color: #00C1C2;
+}
+.footer_about{
+color: white;
+}
+.footer_about:hover{
+    color: #00C1C2;
+}
+.footer_shop{
+color: white;
+}
+.footer_shop:hover{
+    color: #00C1C2;  
+}
+.footer_contact{
+    color: white;
+}
+.footer_contact:hover{
+    color: #00C1C2;
+}
+.footer_refund{
+    color: white;
+}
+.footer_refund:hover{
+    color: #00C1C2;
+}
+.footer_terms{
+    color: white;
+}
+.footer_terms:hover{
+    color: #00C1C2;
+}
+.footer_privacy{
+    color: white;
+}
+.footer_privacy:hover{
+    color: #00C1C2;
+}
+.icon{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}

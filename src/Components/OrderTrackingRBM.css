@@ -1,0 +1,22 @@
+.truck_img{
+    height: 400px;
+    width: 500px;
+}
+.order_content{
+    font-size: 20px;
+}
+.order_button{
+    margin-top: 20px;
+    height: 50px;
+    width: 170px;
+    background-color: black;
+    color: white;
+}
+.order_text{
+    height: 60px;
+    width: 550px;
+}
+.order__main{
+    margin-left: 80px;
+    margin-right: 80px;
+}

@@ -1,0 +1,16 @@
+.robo_img{
+    height: 100px;
+    width: 100px;
+}
+.nav_title{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    
+}
+nav a{
+    color: darkblue
+    
+}
+a{
+    text-decoration: none;
+}

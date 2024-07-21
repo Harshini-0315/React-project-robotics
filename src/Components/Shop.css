@@ -1,0 +1,17 @@
+.app_flex{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    column-gap: 100px;
+    row-gap: 100px;
+    text-align: center;
+   
+}
+.map{
+    margin-top: 10px;
+    height: 350px;
+    width: 1600px;
+}
+.shop__main{
+    margin-left: 80px;
+    margin-right: 80px;
+}

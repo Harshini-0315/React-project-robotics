@@ -1,0 +1,50 @@
+.aboutblue_circle{
+    height: 280px;
+    width: 280px;
+    border-radius: 200px;
+    margin-left: 40px;
+    background-color: #003777;
+}
+.rocket{
+   margin-top: 40px;
+  height: 200px;
+  width: 200px; 
+}
+
+.rocket_img{
+   width: 100%;
+   
+}
+.flag{
+   margin-top: 40px;
+   height: 200px;
+   width: 200px;
+}
+.flag_img{
+   width: 100%;
+}
+ .about_platform{
+    color:#00C1C2;
+    font-size: 20px;
+ }
+ .diamond{
+   margin-top: 40px;
+   height: 200px;
+   width: 200px;
+ }
+ .diamond_img{
+   width: 100%;
+ }
+ .about_club{
+    color:#00C1C2;
+    font-size: 20px;
+ }
+ .about_certification{
+    color: #00C1C2;
+    font-size: 20px;
+ }
+ .about__main{
+   margin-left: 80px;
+   margin-right: 80px;
+ }
+
